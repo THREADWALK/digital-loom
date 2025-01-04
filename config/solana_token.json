@@ -1,0 +1,7 @@
+{ 
+  "name": "Elara Token", 
+  "symbol": "ELR", 
+  "total_supply": 1000000000, 
+  "dev_allocation": 0.05, 
+  "lock_period_months": 6 
+} 
