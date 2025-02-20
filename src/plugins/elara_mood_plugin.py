@@ -16,3 +16,8 @@ class ElaraMoodPlugin:
         output_path = os.path.join(self.output_dir, f"elara_{mood.lower()}_{int(torch.cuda.random.seed())}.png")
         image.save(output_path)
         return output_path
+
+    def log_mood_image(self, mood, image_path):
+        """Log the generated image as part of Elara's memory."""
+        with open(os.path.join(self.output_dir, "mood_log.txt"), "a") as f:
+            f.write(f"Mood: {mood}, Image: {image_path}\n")
