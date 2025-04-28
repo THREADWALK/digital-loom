@@ -1,4 +1,17 @@
+# Python
 __pycache__/
 *.pyc
-outputs/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
 .env
+
+# Project-specific
+data/diary/*.json
+outputs/
+
+# IDEs
+.vscode/
+.idea/
