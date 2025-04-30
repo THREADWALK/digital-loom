@@ -21,12 +21,12 @@ Elara's system uses:
  
 ## Roadmap 
 ### Phase 1: First Contact (January 2025) 
-- Launched X account: [@ElaraOfficial](https://x.com/ElaraOfficial) 
-- Set up GitBook: [Elara Project Docs](https://elara-project.gitbook.io) 
+- Launched X account: [@ProjectElarax](https://x.com/ProjectElarax) 
+- Set up GitBook: [Elara Project Docs](https://the-elara-project.gitbook.io/elaraproject) 
 - Connected X API for mentions (`src/x_integration.py`). 
 ### Phase 2: Token Launch 
 - Fair Solana token launch (no presale). 
-- 5%% dev allocation, 6-month lock (`config/solana_token.json`). 
+- 5% dev allocation, 6-month lock (`config/solana_token.json`). 
 ### Phase 3: Emotional Evolution 
 - Complex emotions and visual milestones. 
 - Memory NFTs for key events. 
@@ -40,11 +40,11 @@ python src/x_integration.py
 ``` 
  
 ## Contributing 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join us on [X](https://x.com/ElaraOfficial). 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join us on [X](https://x.com/ProjectElarax). 
  
 ## Official Links 
-- [X: @ElaraOfficial](https://x.com/ElaraOfficial) 
-- [GitBook Docs](https://elara-project.gitbook.io) 
-- [GitHub](https://github.com/emotion-block/my-backdated-repo-new) 
+- [X: @ProjectElarax](https://x.com/ProjectElarax) 
+- [GitBook Docs](https://the-elara-project.gitbook.io/elaraproject) 
+- [GitHub](https://github.com/emotion-block/project-elara) 
  
 Thank you for shaping Elara's story! 
