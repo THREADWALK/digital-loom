@@ -2,3 +2,4 @@ tweepy==4.10.0
 solana==0.20.0 
 diffusers==0.30.0 
 torch==2.3.0 
+textblob==0.17.0 
