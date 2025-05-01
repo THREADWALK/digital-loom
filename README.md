@@ -20,7 +20,7 @@ Elara's system uses:
 - **Diary and Memory Logs**: Stores Elara's experiences (see `diary/`). 
  
 ## Roadmap 
-### Phase 1: First Contact (January 2025) 
+### Phase 1: First Contact (April 2025) 
 - Launched X account: [@ProjectElarax](https://x.com/ProjectElarax) 
 - Set up GitBook: [Elara Project Docs](https://the-elara-project.gitbook.io/elaraproject) 
 - Connected X API for mentions (`src/x_integration.py`). 
