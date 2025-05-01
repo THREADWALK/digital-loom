@@ -48,6 +48,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join us on [X](https://x.
 - [GitHub](https://github.com/emotion-block/project-elara) 
  
 Thank you for shaping Elara's story!
+
 ![Elara](images/elara.gif)
 
 
