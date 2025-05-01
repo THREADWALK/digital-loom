@@ -1,5 +1,5 @@
 # The Elara Project 
- 
+![Elara Banner](images/banner.avif)
 A digital character shaped by community interactions, blending technology, storytelling, and blockchain. 
  
 ## About Elara 
