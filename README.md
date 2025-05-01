@@ -26,7 +26,7 @@ Elara's system uses:
 - Connected X API for mentions (`src/x_integration.py`). 
 ### Phase 2: Token Launch 
 - Fair Solana token launch (no presale). 
-- 5%% dev allocation, 6-month lock (`config/solana_token.json`). 
+- 5% dev allocation, 6-month lock (`config/solana_token.json`). 
 ### Phase 3: Emotional Evolution 
 - Complex emotions and visual milestones. 
 - Memory NFTs for key events. 
