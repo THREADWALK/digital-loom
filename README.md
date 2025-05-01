@@ -21,7 +21,7 @@ Elara's system uses:
  
 ## Roadmap 
 ### Phase 1: First Contact (January 2025) 
-- Launched X account: [@ElaraOfficial](https://x.com/ProjectElarax) 
+- Launched X account: [@ProjectElarax](https://x.com/ProjectElarax) 
 - Set up GitBook: [Elara Project Docs](https://the-elara-project.gitbook.io/elaraproject) 
 - Connected X API for mentions (`src/x_integration.py`). 
 ### Phase 2: Token Launch 
@@ -43,7 +43,7 @@ python src/x_integration.py
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join us on [X](https://x.com/ProjectElarax). 
  
 ## Official Links 
-- [X: @ElaraOfficial](https://x.com/ProjectElarax) 
+- [X: @ProjectElarax](https://x.com/ProjectElarax) 
 - [GitBook Docs](https://the-elara-project.gitbook.io/elaraproject) 
 - [GitHub](https://github.com/emotion-block/project-elara) 
  
