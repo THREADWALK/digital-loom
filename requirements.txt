@@ -1,5 +1,6 @@
-tweepy==4.10.0 
-solana==0.20.0 
-diffusers==0.30.0 
-torch==2.3.0 
-textblob==0.17.0 
+# May 3, 2025: Pinned versions for stability, added transformers for ElaraStoryPlugin
+diffusers==0.21.0
+torch==2.0.1
+transformers==4.31.0
+flask==2.3.2
+tweepy==4.10.0
