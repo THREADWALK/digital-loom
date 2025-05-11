@@ -1,5 +1,0 @@
-# Elara Project Configuration 
-project_name: Elara 
-version: 0.1.0 
-x_api_enabled: true 
-solana_token_enabled: false 
