@@ -2,7 +2,7 @@
 
 **Digital Loom** is an innovative, experimental tree-based writing interface designed to empower creators with non-linear storytelling capabilities. Powered by advanced AI models like OpenAI's GPT-3, Meta AI's Llama 3, and Google DeepMind Veo 3, it offers a dynamic platform for crafting, exploring, and visualizing narratives. This project is under active development, so expect evolving features and documentation as we refine the experience.
 
-Follow our Social Experiment, weaved by Digital Loom: [Digital Loom](https://x.com/DigitalL0OM)
+Follow our Social Experiment, weaved by Digital Loom: [@DigitalL0OM](https://x.com/DigitalL0OM)
 
 > **Note**: As an experimental project, the codebase is unstable and documentation is a work in progress. We welcome feedback and contributions!
 
