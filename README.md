@@ -2,7 +2,7 @@
 
 **Digital Loom** is an innovative, experimental tree-based writing interface designed to empower creators with non-linear storytelling capabilities. Powered by advanced AI models like OpenAI's GPT-3, Meta AI's Llama 3, and Google DeepMind Veo 3, it offers a dynamic platform for crafting, exploring, and visualizing narratives. This project is under active development, so expect evolving features and documentation as we refine the experience.
 
-Explore and contribute on GitHub: [Digital Loom](https://github.com/THREADWALK/digital-loom)
+Follow our Social Experiment, weaved by Digital Loom: [Digital Loom](https://x.com/DigitalL0OM)
 
 > **Note**: As an experimental project, the codebase is unstable and documentation is a work in progress. We welcome feedback and contributions!
 
@@ -39,7 +39,7 @@ Digital Loom provides a robust set of tools for writers, developers, and creator
 
 ## Demo
 
-Explore Digital Loom’s interface through these screenshots:
+Explore Digital Loomâ€™s interface through these screenshots:
 
 ![Read View (Dark)](static/readme/read-view.png)
 ![Read View (Light)](static/readme/read-view-light.png)
@@ -60,7 +60,7 @@ Block Multiverse Mode offers a unique interface for exploring narrative possibil
 3. [Optional] Provide a ground truth continuation in the gray entry box at the bottom. Blocks in the ground truth trajectory will appear in black.
 4. Configure the model (e.g., GPT-3, Llama 3, or Veo 3) and [generation parameters](https://generative.ink/meta/block-multiverse/#generation-parameters) in the top bar.
 5. Click `Propagate` to generate and visualize the Block Multiverse.
-6. Click any block to zoom ("[renormalize](https://generative.ink/meta/block-multiverse/#renormalization)") to that block’s perspective.
+6. Click any block to zoom ("[renormalize](https://generative.ink/meta/block-multiverse/#renormalization)") to that blockâ€™s perspective.
 7. Click `Propagate` again to plot future multiverse branches from the renormalized frame.
 8. Click `Reset zoom` to return to the initial view.
 9. Click `Clear` to reset the multiverse plot before generating a new one.
